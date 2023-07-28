@@ -2,7 +2,7 @@
 
 Convert a CSV file to a VCF contacts file. 
 
-The VCF format was defined for importing contacts into a (nextclou)[https://nextcloud.com/] instance.
+The VCF format was defined for importing contacts into a [nextcloud](https://nextcloud.com) instance.
 
 Having a CSV file in following format:
 
