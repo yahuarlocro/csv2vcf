@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:yahuar locro
+EMAIL;TYPE=HOME:yahuar@locro.com
+TEL;TYPE=CELL:012345678909
+BDAY;VALUE=DATE:1990-09-09
+ADR;TYPE=HOME:;;Mystreet Av. 69;mycity;mystate;555555;mycountry
+END:VCARD
+
